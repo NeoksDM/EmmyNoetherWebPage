@@ -1,2 +1,2 @@
 # EmmyNoetherWebPage
-Página web del club de física Emmy Noether
+PPágina web del club de física Emmy Noether
