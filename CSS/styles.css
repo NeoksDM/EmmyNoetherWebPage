@@ -1,0 +1,21 @@
+.banner {
+	display: flex;
+	align-items: center;
+	place-content: space-between;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	background-color: #303368;
+}
+.titulo {
+	text-align: center;
+}
+.caja_madre {
+	display: flex;
+	align-items: center;
+	place-content: space-between;
+}
+.caja {
+	
+}
+
